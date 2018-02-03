@@ -26,7 +26,7 @@ _1 DIL and counting..._
 
 ### Nodjs
 
-- [Nodjs --npm init and setting](Vim/npm-init-setting.md)
+- [Nodjs --npm init and setting](Nodjs/npm-init-setting.md)
 
 
 
