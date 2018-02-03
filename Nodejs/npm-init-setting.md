@@ -1,29 +1,34 @@
-ï»¿è®¾ç½®npmçš„registry 
-1.åŸnpmåœ°å€
+# Npm 
+
+Npm is usually scripts
+
+ÉèÖÃnpmµÄregistry 
+1.Ô­npmµØÖ·
 npm config set registry http://registry.npmjs.org 
-2.è®¾ç½®å›½å†…é•œåƒ
-a.é€šè¿‡configå‘½ä»¤
+2.ÉèÖÃ¹úÄÚ¾µÏñ
+a.Í¨¹ıconfigÃüÁî
 npm config set registry https://registry.npm.taobao.org 
-npm info underscore ï¼ˆå¦‚æœä¸Šé¢é…ç½®æ­£ç¡®è¿™ä¸ªå‘½ä»¤ä¼šæœ‰å­—ç¬¦ä¸²responseï¼‰
-b.å‘½ä»¤è¡ŒæŒ‡å®š
+npm info underscore £¨Èç¹ûÉÏÃæÅäÖÃÕıÈ·Õâ¸öÃüÁî»áÓĞ×Ö·û´®response£©
+b.ÃüÁîĞĞÖ¸¶¨
 npm --registry https://registry.npm.taobao.org info underscore 
-c.ç¼–è¾‘ ~/.npmrc åŠ å…¥ä¸‹é¢å†…å®¹
+c.±à¼­ ~/.npmrc ¼ÓÈëÏÂÃæÄÚÈİ
 registry = https://registry.npm.taobao.org
-3.ä½¿ç”¨nrmç®¡ç†registryåœ°å€
-a.ä¸‹è½½nrm
+3.Ê¹ÓÃnrm¹ÜÀíregistryµØÖ·
+a.ÏÂÔØnrm
 npm install -g nrm
-b.æ·»åŠ registryåœ°å€
+b.Ìí¼ÓregistryµØÖ·
 nrm add npm http://registry.npmjs.org
 nrm add taobao https://registry.npm.taobao.org
-c.åˆ‡æ¢npm registryåœ°å€
+c.ÇĞ»»npm registryµØÖ·
 nrm use taobao
 nrm use npm
-æœç´¢é•œåƒ: https://npm.taobao.org
-å»ºç«‹æˆ–ä½¿ç”¨é•œåƒ,å‚è€ƒ: https://github.com/cnpm/cnpmjs.org
+ËÑË÷¾µÏñ: https://npm.taobao.org
+½¨Á¢»òÊ¹ÓÃ¾µÏñ,²Î¿¼: https://github.com/cnpm/cnpmjs.org
 
-vue å®‰è£…
+vue °²×°
 npm install --global vue
 npm install --global vue-cli
 
 vue init webpack demo
 npm install -D vuex babel-runtime
+
