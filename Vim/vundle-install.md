@@ -11,8 +11,7 @@
 
 [Vundle] is short for _Vim bundle_ and is a [Vim] plugin manager.
 
-* git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
-	[~/ is currunt user home]
+* [git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim]
 * $vim ~/.vimrc
 * $vim:PluginInstall
 * [search] by name all available [Vim scripts]
