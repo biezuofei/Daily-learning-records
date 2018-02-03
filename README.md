@@ -29,15 +29,11 @@ _1 DIL and counting..._
 - [Vim --Search and replace](Vim/search-replace.md)
 
 
-## Other DIL Collections
 
-* [Today I Learned by Hashrocket](https://til.hashrocket.com)
-* [jwworth/til](https://github.com/jwworth/til)
-* [thoughtbot/til](https://github.com/thoughtbot/til)
 
 ## License
 
-&copy; 2017-2017 Biezuofei
+&copy; 2018-2018 Biezuofei
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.
