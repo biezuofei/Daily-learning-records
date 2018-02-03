@@ -24,9 +24,9 @@ _1 DIL and counting..._
 - [Vim --Search and replace](Vim/search-replace.md)
 
 
-### Nodjs
+### Nodejs
 
-- [Nodjs --npm init and setting](Nodejs/npm-init-setting.md)
+- [Nodejs --npm init and setting](Nodejs/npm-init-setting.md)
 
 
 
