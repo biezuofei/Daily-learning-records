@@ -24,6 +24,7 @@ _1 DIL and counting..._
 
 - [Vim --Search and replace](Vim/search-replace.md)
 - [Vim --vundle and install](Vim/vundle-install.md)
+- [Vim --solarized and install](Vim/solarized-install.md)
 
 ### Nodejs
 
