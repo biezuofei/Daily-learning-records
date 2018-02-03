@@ -14,7 +14,8 @@ _1 DIL and counting..._
 ### Categories
 
 * [Vim](#Vim)
-* [Nodjs](#Nodjs)
+* [Nodejs](#Nodejs)
+* [Git](#Git)
 
 
 ---
@@ -29,6 +30,9 @@ _1 DIL and counting..._
 - [Nodejs --npm init and setting](Nodejs/npm-init-setting.md)
 
 
+### Git
+
+- [Git --git normal use script](Git/git-normal-script.md)
 
 
 ## License
