@@ -13,10 +13,10 @@ _1 DIL and counting..._
 
 ## Categories
 
-* [Vim](##Vim)
-* [Nodejs](##Nodejs)
-* [Git](##Git)
-* [Maven](##Maven)
+* [Vim](### Vim)
+* [Nodejs](### Nodejs)
+* [Git](### Git)
+* [Maven](### Maven)
 
 
 ---
@@ -40,6 +40,7 @@ _1 DIL and counting..._
 ### Maven
 
 - [mvn --mvn normal order](Maven/mvn-order.md)
+- [mvn --mvn set repository](Maven/mvn-set-repository.md)
 
 
 ## License
