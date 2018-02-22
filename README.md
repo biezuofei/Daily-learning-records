@@ -28,7 +28,7 @@ _1 DIL and counting..._
 - [Vim --vundle and install](Vim/vundle-install.md)
 - [Vim --solarized and install](Vim/solarized-install.md)
 - [Vim --NERDTree and install](Vim/nerdtree-install.md)
-- [Vim --vim install](Vim/vim-install.md)
+- [Vim --vim install](Vim/vim_install.md)
 
 ## Nodejs
 
