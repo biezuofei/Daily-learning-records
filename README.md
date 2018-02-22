@@ -14,11 +14,11 @@ _1 DIL and counting..._
 
 # Categories
 
-* [Vim](#Vim)
-* [Nodejs](#Nodejs)
-* [Git](#Git)
-* [Maven](#Maven)
-* [Bash](#Bash)
+* [Vim](#vim)
+* [Nodejs](#nodejs)
+* [Git](#git)
+* [Maven](#maven)
+* [Bash](#bash)
 
 ---
 
