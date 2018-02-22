@@ -1,4 +1,5 @@
-# Daily-learning-records
+Daily-learning-records
+====
 
 > Daily I Learned
 
@@ -11,37 +12,40 @@ _1 DIL and counting..._
 
 ---
 
-## Categories
+#Categories
 
-* [Vim](###Vim)
-* [Nodejs](###Nodejs)
-* [Git](###Git)
-* [Maven](###Maven)
-
+* [Vim](##Vim)
+* [Nodejs](##Nodejs)
+* [Git](##Git)
+* [Maven](##Maven)
+* [Bash](##Bash)
 
 ---
 
-### Vim
+##Vim
 
 - [Vim --Search and replace](Vim/search-replace.md)
 - [Vim --vundle and install](Vim/vundle-install.md)
 - [Vim --solarized and install](Vim/solarized-install.md)
 - [Vim --NERDTree and install](Vim/nerdtree-install.md)
 
-### Nodejs
+##Nodejs
 
 - [Nodejs --npm init and setting](Nodejs/npm-init-setting.md)
 
 
-### Git
+##Git
 
 - [Git --git normal use script](Git/git-normal-script.md)
 
-### Maven
+##Maven
 
 - [mvn --mvn normal order](Maven/mvn-order.md)
 - [mvn --mvn set repository](Maven/mvn-set-repository.md)
 
+##Bash
+
+- [rhel-rpm --rpm-readme](Bash/rpm-readme.md)
 
 ## License
 
