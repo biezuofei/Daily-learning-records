@@ -34,3 +34,6 @@ See `man vim` for more details.
 	:argadd **/*.h 	And all *.h files
 	
 
+	把文中的所有字符串“abc……xyz”替换为“xyz……abc”可以有下列写法
+	:%s/abc\(.*\)xyz/xyz\1abc/g
+	:%s/\(abc\)\(.*\)\(xyz\)/\3\2\1/g
